@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3eeb53b489fbf3c1959c5baa581f23273f2e6789">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cddb7fcfa7412cd45a96f39b3d34423ab1d15024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\190baff7b6666a5393c06db357bfa9d55bae1200\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a81f7a5c7d32534b35454c1d98e641cbae6c5c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2ca96a73525220a399959097a3093d9c2ccc7050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\3ab955c1b6d741fddc305ccbc114cfc43475de5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f39826328b67988cd4cdcb96853c65a4cba58477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\2d5a2f6e27ffd177b3a92d8ffb2c67641302ebeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f7f8b01b89c387c4554cee6fca13cd072bc8fba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_95084ff840b0c26b58fab6b35471de14c527f1e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\8577942be6018dd819ec156a11434a3d1034a03a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3165efcaccf8a75de32cd54c0b8e33492f51b2d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\d893cda58cf49f13ed804e8445dd272276d7fd0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6998990dce9f889374eef09096d3819fb7a75db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\94aaa31361034d73d2af126ea12d617b8695f5d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44d77f33544a6e11be3b9287a64de840bc96cb74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\3dfffb22d73532de08511cdbc3c947816b97f241\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12c443fb690a9978e7f1b0f1b8f88934fdde94be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\1b666ad967bace5503c02ea84e81c72dd65030d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b35cc274c4333eda994d20479153a97bb830cbb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ed8c554e349cab06b6b5a7e493642c42e630b0a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\55589212e98ebe56f12081962161dc24324805c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c9618be3cad88a4830926f0e76363790fdb941a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\cb52997f9085322a40f893aae3de01f8c511e965\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1dfaf5bbef42c85b56f7ea7fb6c14befccfb6714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerrod\.android\build-cache\20aca417fa33e33f503ec883d0c5a5c260dcf9a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Gerrod\AndroidStudioProjects\Navisir\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c84fe068c0ddaed71fab054cfc97a55bed8c4f91\classes.dex" />
+    </item>
+
+</items>

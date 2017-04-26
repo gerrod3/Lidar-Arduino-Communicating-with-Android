@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="UsbSerial-4.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8577942be6018dd819ec156a11434a3d1034a03a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8577942be6018dd819ec156a11434a3d1034a03a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
